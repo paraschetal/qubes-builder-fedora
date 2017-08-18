@@ -12,3 +12,4 @@ rpm-build
 redhat-rpm-config
 which
 clang
+clang-analyzer
